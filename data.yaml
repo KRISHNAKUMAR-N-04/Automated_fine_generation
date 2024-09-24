@@ -1,0 +1,10 @@
+train: C:\\Users\\Akshay.J\\OneDrive\\Desktop\\hackathon\\new_helmet\\dataset\\images\\train
+val: C:\\Users\\Akshay.J\\OneDrive\\Desktop\\hackathon\\new_helmet\\dataset\\images\\val
+test: C:\\Users\\Akshay.J\\OneDrive\\Desktop\\hackathon\\new_helmet\\dataset\\images\\test
+
+names: 
+  0: bicyclist
+  1: driver
+  2: helmet
+  3: no-helmet
+  4: notsure
